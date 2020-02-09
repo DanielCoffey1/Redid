@@ -15,6 +15,30 @@
  */
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+body {
+  background: #ad0c00;
+}
+
+p {
+  color: white;
+}
+
+small {
+  color: blue;
+}
+
+.navbar-inner {
+  background: maroon;
+  #logo a {
+    color: white;
+  }
+}
+
+a {
+  color: lightgrey;
+}
+
 #logo {
   font-size: 26px;
   font-weight: 700;
